@@ -1,6 +1,7 @@
 # Mentorness_
 
 **Overview**
+
 This repository contains the three main tasks I completed during my Mentorness Data Analyst Internship. Each task involved different data analysis techniques and tools, helping me to gain a diverse set of skills. Below are the details of each task:
 
 **1. Reels Task on SQL or Power BI
@@ -15,8 +16,10 @@ LinkedIn Post:** https://www.linkedin.com/posts/samiya-mansuri-a9b806239_mentorn
 **Description:** Analyzed NREGA data to evaluate its effectiveness, regional disparities, budget utilization, and factors affecting project completion. This project involved data preprocessing, analysis, and creating a Power BI dashboard.
 **LinkedIn Post:** https://www.linkedin.com/posts/samiya-mansuri-a9b806239_nrega-analysis-activity-7210621138127753216-mi2c?utm_source=share&utm_medium=member_android
 
-#**Contact**
+**Contact**
+
 For any questions or further information, feel free to contact me via LinkedIn.
 
-#**Acknowledgements**
+**Acknowledgements**
+
 Thank you to **Mentorness** for this valuable learning experience.
