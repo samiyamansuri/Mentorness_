@@ -1,4 +1,4 @@
-# Mentorness Virtual Data Analyst Internship
+# Mentorness Data Analyst Virtual Internship
 
 **Overview**
 
