@@ -1,4 +1,4 @@
-# Mentorness_
+# Mentorness Virtual Data Analyst Internship
 
 **Overview**
 
@@ -8,23 +8,23 @@ This repository contains the three main tasks I completed during my Mentorness D
 
 **Topic: Savepoint in Transactions**
 
-**LinkedIn Post:** https://www.linkedin.com/posts/samiya-mansuri-a9b806239_mentorness-mentornessinternship-savepoints-activity-7202705614332915712-DRs2?utm_source=share&utm_medium=member_android
+**LinkedIn Post:** [Link to LinkedIn Post](https://www.linkedin.com/posts/samiya-mansuri-a9b806239_mentorness-mentornessinternship-savepoints-activity-7202705614332915712-DRs2?utm_source=share&utm_medium=member_android)
 
 **2. Corona Virus Analysis with SQL**
 
 **Description**: Analyzed COVID-19 data using SQL to gain insights into the pandemic's impact. The analysis included answering specific questions from the provided reference file using SQL queries.
 
-**LinkedIn Post:** https://www.linkedin.com/posts/samiya-mansuri-a9b806239_coronavirus-analysis-activity-7206952542533070848-1z3i?utm_source=share&utm_medium=member_android
+**LinkedIn Post:** [Link to LinkedIn Post](https://www.linkedin.com/posts/samiya-mansuri-a9b806239_coronavirus-analysis-activity-7206952542533070848-1z3i?utm_source=share&utm_medium=member_android)
 
 **3. NREGA Analysis with Power BI**
 
 **Description:** Analyzed NREGA data to evaluate its effectiveness, regional disparities, budget utilization, and factors affecting project completion. This project involved data preprocessing, analysis, and creating a Power BI dashboard.
 
-**LinkedIn Post:** https://www.linkedin.com/posts/samiya-mansuri-a9b806239_nrega-analysis-activity-7210621138127753216-mi2c?utm_source=share&utm_medium=member_android
+**LinkedIn Post:** [Link to LinkedIn Post](https://www.linkedin.com/posts/samiya-mansuri-a9b806239_nrega-analysis-activity-7210621138127753216-mi2c?utm_source=share&utm_medium=member_android)
 
 **Contact**
 
-For any questions or further information, feel free to contact me via LinkedIn.
+For any questions or further information, feel free to contact me via [LinkedIn](www.linkedin.com/in/samiya-mansuri-a9b806239).
 
 **Acknowledgements**
 
