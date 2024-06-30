@@ -8,6 +8,8 @@ This repository contains the three main tasks I completed during my Mentorness D
 
 **Topic: Savepoint in Transactions**
 
+**Description:** Implemented savepoints in SQL transactions to ensure data integrity during complex database operations, allowing for partial rollback and recovery points within the transaction process.
+
 **LinkedIn Post:** [Link to LinkedIn Post](https://www.linkedin.com/posts/samiya-mansuri-a9b806239_mentorness-mentornessinternship-savepoints-activity-7202705614332915712-DRs2?utm_source=share&utm_medium=member_android)
 
 ## **2. Corona Virus Analysis with SQL**
