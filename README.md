@@ -24,7 +24,7 @@ This repository contains the three main tasks I completed during my Mentorness D
 
 **Contact**
 
-For any questions or further information, feel free to contact me via [LinkedIn](www.linkedin.com/in/samiya-mansuri-a9b806239).
+For any questions or further information, feel free to contact me via [LinkedIn](linkedin.com/in/samiya-mansuri-a9b806239).
 
 **Acknowledgements**
 
